@@ -6,8 +6,3 @@ This repository contains all the codes and related work completed during the CSE
 You can find the emotion dataset in Kaggle or click the link. 
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
-Group Members :-
-1. Abdullah Shujat (2022013)
-2. Anant Kumar Kaushal (2022067)
-3. Anikait Agrawal (2022072)
-4. Ansh Varshney (2022083)
